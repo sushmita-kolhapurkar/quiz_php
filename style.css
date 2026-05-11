@@ -1,0 +1,17 @@
+/* CSS Document */
+.container-fluid {
+	padding-top:100px;
+}
+.btnOption {
+	color:#666;
+	font-size:18px;
+}
+.btnOption:hover {
+  background-color:#09F;
+  color:#FFF;
+}
+.btnOption:active {
+  background-color:#06F;
+}
+
+
